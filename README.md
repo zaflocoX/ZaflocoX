@@ -15,7 +15,7 @@ Ingeniero de Sistemas con conocimientos en Desarrollo Web y automatizacion de pr
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaflocoX&show_icons=true)  
+
 
 
 
