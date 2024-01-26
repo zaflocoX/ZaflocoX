@@ -1,5 +1,4 @@
 
-### Hola 👋,
 
 <h1 align="center">Hi 👋, I'm Zamir Flores Cordoba</h1>
 <h3 align="center">Ingeniero de Sistemas con conocimientos en Desarrollo Web y automatizacion de pruebas de Software.</h3>
